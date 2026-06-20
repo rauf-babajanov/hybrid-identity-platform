@@ -1,3 +1,5 @@
+
+# Static addressing, DHCP disabled on adlab — DC01 (10.10.20.10) is the sole DNS authority on this network. No second DHCP/DNS source to avoid conflicting resolution.
 <network>
   <name>adlab</name>
   <uuid>96e90ade-3986-493e-98ba-41bc4357150f</uuid>
