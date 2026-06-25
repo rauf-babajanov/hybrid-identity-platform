@@ -30,7 +30,7 @@ The main engineering message is simple:
 
 ## Business Problem
 
-The fictional organization, **Falkenwerk International**, has a regional business unit with typical infrastructure problems:
+The fictional organization, **ATLAS**, has a regional business unit with typical infrastructure problems:
 
 * user accounts are managed inconsistently;
 * Windows and Linux access are separated;
